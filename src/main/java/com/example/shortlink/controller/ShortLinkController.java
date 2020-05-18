@@ -1,6 +1,6 @@
 package com.example.shortlink.controller;
 
-import com.example.shortlink.model.exception.ShortLinkCreateRequest;
+import com.example.shortlink.model.ShortLinkCreateRequest;
 import com.example.shortlink.model.exception.UniqueShortLinkValidationException;
 import com.example.shortlink.service.ShortLinkManagementService;
 import com.google.common.base.Strings;

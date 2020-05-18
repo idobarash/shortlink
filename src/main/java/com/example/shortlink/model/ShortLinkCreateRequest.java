@@ -1,4 +1,4 @@
-package com.example.shortlink.model.exception;
+package com.example.shortlink.model;
 
 import lombok.*;
 
